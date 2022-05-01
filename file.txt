@@ -1,1 +1,2 @@
 the first line (feature_1)
+and the second line (feature_2)
